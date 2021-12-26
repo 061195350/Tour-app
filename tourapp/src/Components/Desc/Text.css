@@ -1,0 +1,49 @@
+.container{
+    width: 1170px;
+	padding-top: 3px;
+	padding-bottom: 100px;
+	margin-left: auto;
+	margin-right: auto;   
+}
+.back{
+    background-image: url(https://cdn-bmalj.nitrocdn.com/uirOOtSrYrqqUksKHkiSCjZGZlPeXsmk/assets/static/optimized/rev-0404f4f/images/Places-to-Visit-in-Switzerland-St-Moritz-1600x1067.jpg);
+    width: 100%;
+    height: 750px;
+}
+.description{
+    padding-top: 20%;
+}
+
+h1{
+    text-align: center;
+    color: #fff;
+    font-size: 70px;
+    font-family: sans-serif;
+    font-weight: bold;
+    padding-bottom: 40px;
+}
+h3{
+    color: #fff;
+    font-size: 50px;
+    font-family: sans-serif;
+    padding-bottom: 200px;
+    margin-left: 50px;
+}
+.send-message{
+    width: 190px;
+    height: 42px;
+    background-color: #556B2F;
+    border-radius: 50px;
+    margin-left: 500px;
+    cursor: pointer;
+}
+#myBtn{
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+    color: #fff;
+    margin-left: 10px;
+}
+.send-message h3{
+    padding-top: 5px;
+}

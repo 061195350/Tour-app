@@ -1,0 +1,57 @@
+.Container{
+    width: 100%;
+    display: flex;
+    padding: 0 20px;
+    padding-top: 100px;
+}
+h2{
+    text-align: center;
+    color: #556B2F;
+    padding-top: 30px;
+    font-size: 50px;
+    font-weight: bold;
+}
+.slider .title{
+    color:  black;
+    font-size:40px;
+    font-weight: bold;
+    bottom: 5px;
+    left: 20px;
+    margin: 0;
+   position: absolute;
+    
+}
+.slider{
+   
+    height: 80vh;
+    border-radius: 20px;
+    color: #fff;
+    margin: 10; /* distanta dintre elemente */
+    flex: 1;
+    cursor: pointer;
+    /* Pozitionare imaginilor*/
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+    transition: all 500ms ease-in-out;
+    margin-bottom: 100px;
+}
+#mare{
+    padding-top: 50px;
+    background-image:
+     url('https://images.unsplash.com/photo-1507525428034-b723cf961d3e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1173&q=80');     
+}
+#munte{
+
+    background-image: 
+    url('https://images.unsplash.com/photo-1613310023042-ad79320c00ff?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80');
+}
+#excursii{
+    background-image: 
+    url('https://images.unsplash.com/photo-1544735716-ea9ef790f501?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80');
+}
+#bilete{
+    background-image: 
+    url('https://images.unsplash.com/photo-1621331805847-bb27233e4ae1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80');
+}

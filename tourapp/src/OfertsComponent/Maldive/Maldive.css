@@ -1,0 +1,24 @@
+.Maldive{
+    width: 100%;
+    height: 700px;
+    background-image: url(https://u-stena.ru/upload/iblock/006/006e23e688cbbee8b67d857dd1aa6784.jpg);
+}
+.Maldive-name{
+    padding-top: 170px;
+    font-weight: bold;
+    color: white;
+}
+.maldive-price{
+    text-align: center;
+    font-size: 45px;
+    font-weight: bold;
+    color: white;
+    padding-top: 10px;
+}
+.time{
+    padding-top: 10px;
+    font-size: 30px;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+}

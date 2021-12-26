@@ -1,0 +1,37 @@
+.modal{
+    background-color: rgba(0, 0, 0, 0.5);
+    position: fixed;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.modal-content{
+    width: 700px;
+    background-color: white;
+    
+}
+.modal-header, .modal-footer{ padding: 10px;}
+.modal-body{
+    padding: 10px;
+    margin-left: 15px;
+}
+
+.modal-body input{
+    border: 1px solid #000;
+    width: 300px;
+    color: black;
+}
+.modal-body textarea{
+    width: 300px;
+}
+.modal-title{
+    text-align: center;
+    color: black;
+    font-size: 45px;
+}
+.close{
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+    cursor: pointer;
+}

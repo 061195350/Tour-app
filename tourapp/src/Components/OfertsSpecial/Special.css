@@ -1,0 +1,47 @@
+.ofertsname{
+    font-size: 40px;
+    font-weight: bold;
+    padding-top: 15px;
+    color: #556B2F;
+    padding-bottom: 30px;
+}
+.oferts{
+    display: inline-block;
+    padding-left: 50px;
+}
+.oferts img{
+    padding-top: 20px;
+    width: 300px;
+    height: 250px;
+
+}
+#egipt{
+    padding-top: 30px;
+}
+.detalii{
+    background-color: #F5F5DC;
+}
+.point{
+    color: black;
+    font-weight: bold;
+    padding-left: 5px;
+    font-size: 15px;
+    padding-top: 5px;
+}
+.reducere{
+    color: grey;
+    text-decoration: line-through;
+    padding-left: 5px;
+    font-size: 20px;
+}
+.price{
+    color: #556B2F;
+    padding-left: 5px;
+    font-size: 25px;
+}
+.back-image{
+    background-image: url('https://ze-robot.com/images/source/13302.jpg');
+    width: 100%;
+    height: 810px;
+    margin-bottom: 50px;
+}
